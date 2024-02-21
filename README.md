@@ -1,4 +1,5 @@
 **News Web App**
+![alt text](download.jpg)
 ---
 
 ### Overview
