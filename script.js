@@ -1,4 +1,4 @@
-let apiKey = "d8a73e43ecec4f75afb1e52476a403c1";
+let apiKey = "******************";
 const container = document.querySelector(".container");
 const optionsContainer = document.querySelector(".options-container");
 const options = ["general", "entertainment", "health", "science", "sports", "technology", ];
